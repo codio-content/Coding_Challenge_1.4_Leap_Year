@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "cdbbb390-c29e-0acc-403a-8f1da3c76926",
+   "title": "Is It A Leap Year?",
+   "files": [
+    {
+     "path": "challenge4.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Is-It-A-Leap-Year--cdbb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "469a9694-4855-b770-2d56-165093b38717",
+   "title": "Teacher Section",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Teacher-Section-469a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
